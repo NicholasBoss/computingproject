@@ -59,7 +59,7 @@ This week we are going to start creating some python code that will allow us to 
 
     This code will execute the SQL statements that were parsed from the SQL file or return an error if there is one.
 
-8. Next, we need to check the number of drop and create statements. Write the following code:
+8. Next, we need to check the number of drop and create statements. Write the following code outside the `for` loop:
 
     <!-- Image of code here -->
     ![checkstatements](drop_create_count.png)
