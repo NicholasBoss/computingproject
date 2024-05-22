@@ -50,4 +50,4 @@ This week we are going to start creating some python code that will allow us to 
 
 ## Next Steps
 
-[Week 4](../week4/README.md) - In week 3, we will write python code that will allow us to insert data into the `project` table. 
+[Week 4](../week4/README.md) - In week 4, we will write python code that will allow us to insert data into the `project` table. 
