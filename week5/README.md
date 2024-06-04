@@ -48,7 +48,11 @@ In week 5, we will write python code that will allow us to update our project da
 
     This code will check to see if the `project_description` is not None and if it is not, update the project description in the `project` table.
 
-7. Save the file.
+7. Copy the code from the `user_id` SELECT statement and paste it outside the `project_description` if statement:
+
+    ![user_id](user_id.png)
+
+    This code will allow us to update the `user_project` table with the new `user_id` that is passed in. and will commit the changes to the database.
 
 ## Next Steps
 
