@@ -89,4 +89,6 @@ This week we will begin writing code that will allow us to create the frontend o
 
     This code will allow the user to update a project in the database.
 
+## Next Steps
 
+[Week 8](../week8/README.md) - In week 8, we will write code that will allow us to update and delete projects in the database.
