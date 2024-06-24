@@ -75,9 +75,15 @@ This week we will begin writing code that will allow us to create the frontend o
     This code will allow the user to add a new project to the database.
 
 <!-- create a list of steps under step 11 -->
-11. We will now write the option to view the projects:
+11. We will now write the option to view the projects. This code must be outside the `while` loop:
 
     * First create a checkbox 
+
+    * Create an `if` statement to check if the checkbox is checked
+
+    * Use a `try` block to grab the projects from the database
+
+    * Finally create an `if` statement to display the projects
 
     ![display_projects](display_projects.png)
 
