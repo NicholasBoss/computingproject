@@ -1,4 +1,4 @@
-### Week 7 - Beginnings of the Frontend of the Project
+### Week 8 - Finishing the Frontend
 
 #### Table of Contents
 
@@ -9,6 +9,7 @@
 - [Week 4](../week4/README.md)
 - [Week 5](../week5/README.md)
 - [Week 6](../week6/README.md)
+- [Week 7](../week7/README.md)
 
 ## Introduction
 
